@@ -1,0 +1,18 @@
+\babel@toc {french}{}
+\contentsline {section}{\numberline {1}Objectifs et Importance de la progammation parallèle}{2}{section.1}%
+\contentsline {section}{\numberline {2}Principe général}{2}{section.2}%
+\contentsline {section}{\numberline {3}Notions de base}{3}{section.3}%
+\contentsline {section}{\numberline {4}Etapes du calcul parallèle}{3}{section.4}%
+\contentsline {section}{\numberline {5}Programmation parallèle avec R}{3}{section.5}%
+\contentsline {section}{\numberline {6}Quelques fonctions importantes}{3}{section.6}%
+\contentsline {section}{\numberline {7}Préliminaire}{4}{section.7}%
+\contentsline {subsection}{\numberline {7.1}garbage collector}{4}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Packages}{4}{subsection.7.2}%
+\contentsline {section}{\numberline {8}Définition de la fonction pour calculer le Min}{5}{section.8}%
+\contentsline {section}{\numberline {9}Application de la programmation parallèle pour déterminer le Min}{6}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Calcul direct (sans paralleliser)}{6}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Calcul en utilisant la programmation parallèle}{6}{subsection.9.2}%
+\contentsline {subsubsection}{\numberline {9.2.1}Calcul de la moyenne}{7}{subsubsection.9.2.1}%
+\contentsline {section}{\numberline {10}Avec les packages Doparallel et Foreach}{9}{section.10}%
+\contentsline {section}{\numberline {11}La regression en parallèle}{10}{section.11}%
+\contentsline {section}{\numberline {12}MAP REDUCE}{13}{section.12}%
